@@ -1,5 +1,7 @@
 # CAR_PRICE_PREDICTION
 
+![Car](https://user-images.githubusercontent.com/118731707/226593398-b5d5465b-9a52-4e0a-a518-536bca3804ca.PNG)
+
 Problem Statment
 
 How do you evaluate the apt Price for a second hand car?
