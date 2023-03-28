@@ -64,12 +64,21 @@ Target Variable: Price
 Predictors: Age, KM, FuelType, CC etc.
 
 Price: The Price of the car in dollars
+
 Age: The age of the car in months
+
 KM: How many KMS did the car was used
+
 FuelType: Petrol/Diesel/CNG car
+
 HP: Horse power of the car
+
 MetColor: Whether car has metallic color or not
+
 Automatic: Whether car has automatic transmission or not
+
 CC: The engine size of the car
+
 Doors: The number of doors in the car
+
 Weight: The weight of the car
